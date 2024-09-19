@@ -9,7 +9,7 @@ from within Mirth on the fly to a network printer w/o having a driver installed 
 # Functionality
 Print a pdf document represented by a byte array:
 ```js
-Packages.lu.hrs.mirth.NetworkPrinting.printPdf(documentToPrintAsByteArray, printerIpOrName);`
+Packages.lu.hrs.mirth.NetworkPrinting.printPdf(documentToPrintAsByteArray, printerIpOrName);
 ```
 Print a base64-encoded document:
 ```js
