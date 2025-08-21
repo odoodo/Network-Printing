@@ -6,6 +6,8 @@ A small Java library that allows to print documents of type
 
 from within Mirth on the fly to a network printer w/o having a driver installed locally.
 
+(of course this little library also works with any java application)
+
 # Functionality
 Print a pdf document represented by a byte array:
 ```js
